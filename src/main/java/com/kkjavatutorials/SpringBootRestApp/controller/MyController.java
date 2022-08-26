@@ -8,7 +8,7 @@ public class MyController {
 	
 	@GetMapping(path = "/welcome")
 	public String welcome() {
-		return "Welcome to KK JavaTutorials..";
+		return "Gradle project successfully done by team- Shreya Priya Param Divyaraj Sanatan..";
 	}
 
 }
